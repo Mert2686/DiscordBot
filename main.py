@@ -1,12 +1,8 @@
 import random
 import discord
 from discord.ext import commands
-from Oyunlar import *
 import sqlite3
 from random import *
-from datetime import *
-import locale
-import datetime
 import asyncio
 import random
 
